@@ -24,9 +24,10 @@ This document explains the “Getting Data and Cleaning” assignment
 #Environment:
 
 	Hardware HP Elite Desk 
-        	 Processor Intel Core i7-4779 CPU @ *.40 GHz
-                 Memory  (8.00 GB)
-                 Operating system Windows 7 (64 bits)
+        Processor Intel Core i7-4779 CPU @ *.40 GHz
+        Memory  (8.00 GB)
+        Operating system Windows 7 (64 bits)
+        
 #Tools:
 
 	R Studio 
