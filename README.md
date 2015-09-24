@@ -23,20 +23,20 @@ This document explains the “Getting Data and Cleaning” assignment
 
 #Environment:
 
-	Hardware HP Elite Desk 
-        Processor Intel Core i7-4779 CPU @ *.40 GHz
-        Memory  (8.00 GB)
-        Operating system Windows 7 (64 bits)
+    Hardware HP Elite Desk 
+    Processor Intel Core i7-4779 CPU @ *.40 GHz
+    Memory  (8.00 GB)
+    Operating system Windows 7 (64 bits)
         
 #Tools:
 
-	R Studio 
-        GitHub Repository : https://github.com/tmusso/Data-Cleaning-Assignment
-        GitHub DeskTop
+    R Studio 
+    GitHub Repository : https://github.com/tmusso/Data-Cleaning-Assignment
+    GitHub DeskTop
 
 #Library
 
-	data.table
+    data.table
 
 #Output
 
